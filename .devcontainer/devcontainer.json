@@ -21,7 +21,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
-				"akamud.vscode-theme-onedark"
+				"akamud.vscode-theme-onedark",
+				"ritwickdey.LiveServer"
 			],
 			"settings": {
 				"editor.fontSize": 18,
